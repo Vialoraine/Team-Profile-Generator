@@ -1,5 +1,5 @@
-const index = require("./app")
+const index = require("./lib/app")
 
-consr app = new App();
+const app = new App();
 
 app.start();
