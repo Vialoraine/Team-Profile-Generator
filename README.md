@@ -10,7 +10,7 @@
   * [Tests](#tests)
   * [Questions](#questions)
   ## Installation
-  ```npm init -y``` is used to install dependencies. is used to install dependencies.
+  ```npm init -y``` is used to install dependencies.
   ## Usage
   Node.js must be installed onto your system prior to usage.
   Repo MUST include package.json with required dependencies. 
@@ -20,8 +20,10 @@
   ## Contributing
     Repo MUST include package.json with required dependencies. 
   ## Tests
-  ```npm test``` is used to run tests. is used to run tests.
+  ```npm test``` is used to run tests.
   ## Screenshots
+  <img src="https://github.com/Vialoraine/Team-Profile-Generator/blob/master/Assets/Team%20Profile%20Generator%20GIF.gif?raw=true">
+  <img src="https://github.com/Vialoraine/Team-Profile-Generator/blob/master/Assets/Team%20Profile%20Generator%20HTML.jpg?raw=true">
   ## Questions
   Have a question? Email me directly at vialoraine.gg@gmail.com.
   Check out my other projects at [Vialoraine](https://github.com/Team Profile Generator).
