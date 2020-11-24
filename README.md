@@ -24,5 +24,3 @@
   ## Screenshots
   <img src="https://github.com/Vialoraine/Team-Profile-Generator/blob/master/Assets/Team%20Profile%20Generator%20GIF.gif?raw=true">
   <img src="https://github.com/Vialoraine/Team-Profile-Generator/blob/master/Assets/Team%20Profile%20Generator%20HTML.jpg?raw=true">
-  ## Questions
-  Have a question? Email me directly at vialoraine.gg@gmail.com.
