@@ -1,67 +1,27 @@
+# Loreina Salalila
 # Team Profile Generator
-
-## Getting Started
-
-This application is compatible with the most commonly used web browsers.
-
-## Site Pictures
-
-1. 
-
-![Site](assets/images/.png)
-
-2. 
-
-![Site](assets/images/.png)
-
-
-3. 
-
-![Site](assets/images/.png)
-
-## Code Snippets
-
-
-1. 
-
-```javascript
-    
-```
-* Description:
-
-
-2. 
-
-```javascript
-```
-* Description:
-
-
-## Built With
-
-* [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
-* [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
-* [Bootstrap](https://getbootstrap.com/)
-* [Javascript](https://www.javascript.com/)
-* [Moment.js](https://momentjs.com/docs/)
-
-## Deployed Link
-
-* [See Live Site]()
-
-## Author
-
- * **Loreina Salalila** 
-
-## Links
-
-- [Link to site repository](https://github.com/vialoraine/)
-- [Link to Github](https://www.github.com/vialoraine)
-- [Link to LinkedIn](https://www.linkedin.com/in/vialoraine/)
-
-
-## Acknowledgments
-
-* [W3 Schools](https://www.w3schools.com/)
-* [Bootstrap components](https://getbootstrap.com/docs/4.4/components/navbar/)
-* [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
+  ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+  ## Description
+  The application will prompt the user for information about the team manager and then information about the team members. The user can input any number of team members, and they may be a mix of engineers and interns. When the user has completed building the team, the application will create an HTML file that displays a nicely formatted team roster based on the information provided by the user.
+  ## Table of Contents
+  * [Usage](#usage)
+  * [License](#license)
+  * [Contributing](#contributing)
+  * [Tests](#tests)
+  * [Questions](#questions)
+  ## Installation
+  ```npm init -y``` is used to install dependencies. is used to install dependencies.
+  ## Usage
+  Node.js must be installed onto your system prior to usage.
+  Repo MUST include package.json with required dependencies. 
+  ## License
+  ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+  (https://opensource.org/licenses/MIT)
+  ## Contributing
+    Repo MUST include package.json with required dependencies. 
+  ## Tests
+  ```npm test``` is used to run tests. is used to run tests.
+  ## Screenshots
+  ## Questions
+  Have a question? Email me directly at vialoraine.gg@gmail.com.
+  Check out my other projects at [Vialoraine](https://github.com/Team Profile Generator).
